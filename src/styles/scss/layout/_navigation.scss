@@ -1,4 +1,4 @@
-$DarkColor: #391E21;
+$DarkColor: #FFD62C;
 $OrangeColor: #FA9101;
 // Start Navbar
 .navbar-custom {
@@ -16,10 +16,10 @@ nav {
                 transition: 0.3s;
                 transition-timing-function: ease-in-out;
                 &:hover {
-                    color: #FA9101;
+                    color: #83AF3F;
                 }
                 &.active {
-                    color: #FA9101;
+                    color: #83AF3F;
                 }
             }
         }
@@ -45,7 +45,7 @@ nav {
         border-radius: 10px;
         box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
         a {
-            color: #FA9101;
+            color: #83AF3F;
             transition: 0.3s;
             transition-timing-function: ease-in-out;
         }
